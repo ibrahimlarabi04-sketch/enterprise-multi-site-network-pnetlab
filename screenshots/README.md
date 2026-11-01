@@ -1,0 +1,1 @@
+Add further PNETLab verification screenshots here. Suggested evidence: OSPF neighbors, routing table, EtherChannel summary, and primary/backup ISP failover tests.\n
